@@ -9,7 +9,6 @@ button.addEventListener("click", function(){
   document.querySelector("#output").innerHTML = message;
 });
 
-
 /**
  * 
  * @param {string} text 

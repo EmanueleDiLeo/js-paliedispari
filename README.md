@@ -22,7 +22,7 @@ Dichiariamo chi ha vinto.
 
 ### Svolgimento pari e dispari
 
-1. chiediamo all'utente un numero da 1 a 5 e se è pari o dispari
+1. chiediamo all'utente un numero da 1 a 5 e se vuole pari o dispari
 1. creiamo una funzione che generi random un numero da 1 a 5
 1. sommiamo i due numeri
 1. creiamo una funzione che dice chi ha vinto
